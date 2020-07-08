@@ -1,1 +1,6 @@
-rootProject.name = 'spring-calendar'
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'springboot-demo-calendar'
